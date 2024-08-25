@@ -18,5 +18,49 @@
     {
         "isbn": "9784041153192",
         "placeholder": "assets/sneaker.jpg"
+    },
+        {
+        "isbn": "9784049158533",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "isbn": "9784049158540",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "isbn": "9784049158021",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "isbn": "9784049157000",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "isbn": "9784049159059",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "isbn": "9784049159066",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "isbn": "9784049158601",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "isbn": "9784049158588",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "isbn": "9784049158069",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "isbn": "9784049156546",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "isbn": "9784049157840",
+        "placeholder": "assets/dengeki.jpg"
     }
 ]
