@@ -63,7 +63,7 @@
         "isbn": "9784049157840",
         "placeholder": "assets/dengeki.jpg"
     },
-        {
+    {
         "isbn": "9784798636122",
         "placeholder": "assets/hj.jpg"
     },
@@ -77,6 +77,7 @@
     },
     {
         "isbn": "9999999999999",
-        "placeholder": "assets/hj.jpg"
+        "placeholder": "assets/hj.jpg",
+        "title": "【電子専売】朝比奈さんの弁当食べたい 3 "
     }
 ]
