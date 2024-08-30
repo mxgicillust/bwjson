@@ -42,5 +42,13 @@
     {
         "isbn": "9784049157840",
         "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "isbn": "9784040756110",
+        "placeholder": "assets/kdcwbooks.jpg"
+    },
+    {
+        "isbn": "9784040755687",
+        "placeholder": "assets/kdcwbooks.jpg"
     }
 ]
