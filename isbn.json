@@ -1,26 +1,5 @@
 [
     {
-        "isbn": "9784041148310",
-        "placeholder": "assets/sneaker.jpg",
-        "enddate": "2024-08-20T00:00:00+09:00"
-    },
-    {
-        "isbn": "9784041149768",
-        "placeholder": "assets/sneaker.jpg"
-    },
-    {
-        "isbn": "9784041152324",
-        "placeholder": "assets/sneaker.jpg"
-    },
-    {
-        "isbn": "9784041152331",
-        "placeholder": "assets/sneaker.jpg"
-    },
-    {
-        "isbn": "9784041153192",
-        "placeholder": "assets/sneaker.jpg"
-    },
-    {
         "isbn": "9784049158533",
         "placeholder": "assets/dengeki.jpg"
     },
@@ -63,22 +42,5 @@
     {
         "isbn": "9784049157840",
         "placeholder": "assets/dengeki.jpg"
-    },
-    {
-        "isbn": "9784798636122",
-        "placeholder": "assets/hj.jpg"
-    },
-    {
-        "isbn": "9784798636115",
-        "placeholder": "assets/hj.jpg"
-    },
-    {
-        "isbn": "9784798636108",
-        "placeholder": "assets/hj.jpg"
-    },
-    {
-        "isbn": "9999999999999",
-        "placeholder": "assets/hj.jpg",
-        "title": "【電子専売】朝比奈さんの弁当食べたい 3 "
     }
 ]
