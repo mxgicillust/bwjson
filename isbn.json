@@ -50,5 +50,113 @@
     {
         "isbn": "9784040755687",
         "placeholder": "assets/kdcwbooks.jpg"
+    },
+    {
+        "isbn": "9784815624910",
+        "placeholder": "assets/ga.jpg"
+    },
+    {
+        "isbn": "9784815625870",
+        "placeholder": "assets/ga.jpg"
+    },
+    {
+        "isbn": "9784815626648",
+        "placeholder": "assets/ga.jpg"
+    },
+    {
+        "isbn": "9784094532029",
+        "placeholder": "assets/gagaga.jpg"
+    },
+    {
+        "isbn": "9784094532074",
+        "placeholder": "assets/gagaga.jpg"
+    },
+    {
+        "isbn": "9784094532098",
+        "placeholder": "assets/gagaga.jpg"
+    },
+    {
+        "isbn": "9784094532104",
+        "placeholder": "assets/gagaga.jpg"
+    },
+    {
+        "isbn": "9784094532111",
+        "placeholder": "assets/gagaga.jpg"
+    },
+    {
+        "isbn": "9784094532128",
+        "placeholder": "assets/gagaga.jpg"
+    },
+    {
+        "isbn": "9784040754932",
+        "placeholder": "assets/fantasia.jpg"
+    },
+    {
+        "isbn": "9784040754949",
+        "placeholder": "assets/fantasia.jpg"
+    },
+    {
+        "isbn": "9784040754994",
+        "placeholder": "assets/fantasia.jpg"
+    },
+    {
+        "isbn": "9784040755786",
+        "placeholder": "assets/fantasia.jpg"
+    },
+    {
+        "isbn": "9784040756172",
+        "placeholder": "assets/fantasia.jpg"
+    },
+    {
+        "isbn": "9784040756189",
+        "placeholder": "assets/fantasia.jpg"
+    },
+    {
+        "isbn": "9784040756271",
+        "placeholder": "assets/fantasia.jpg"
+    },
+    {
+        "isbn": "9784046839169",
+        "placeholder": "assets/mfbunko.jpg"
+    },
+    {
+        "isbn": "9784046840042",
+        "placeholder": "assets/mfbunko.jpg"
+    },
+    {
+        "isbn": "9784046840059",
+        "placeholder": "assets/mfbunko.jpg"
+    },
+    {
+        "isbn": "9784046840066",
+        "placeholder": "assets/mfbunko.jpg"
+    },
+    {
+        "isbn": "9784046840073",
+        "placeholder": "assets/mfbunko.jpg"
+    },
+    {
+        "isbn": "9784046840080",
+        "placeholder": "assets/mfbunko.jpg"
+    },
+    {
+        "isbn": "9784046840103",
+        "placeholder": "assets/mfbunko.jpg"
+    },
+    {
+        "isbn": "9784046842121",
+        "placeholder": "assets/mfbunko.jpg"
+    },
+    {
+        "isbn": "9784824009470",
+        "placeholder": "assets/overlap.jpg"
+    },
+    {
+        "isbn": "9784824009456",
+        "placeholder": "assets/overlap.jpg"
+    },
+    {
+        "isbn": "9784824203007",
+        "placeholder": "assets/brave.jpg"
     }
 ]
