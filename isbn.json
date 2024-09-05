@@ -145,11 +145,6 @@
         "placeholder": "assets/fantasia.jpg"
     },
     {
-        "id": 30,
-        "isbn": "9784046839169",
-        "placeholder": "assets/mfbunko.jpg"
-    },
-    {
         "id": 31,
         "isbn": "9784046840042",
         "placeholder": "assets/mfbunko.jpg"
@@ -177,11 +172,6 @@
     {
         "id": 36,
         "isbn": "9784046840103",
-        "placeholder": "assets/mfbunko.jpg"
-    },
-    {
-        "id": 37,
-        "isbn": "9784046842121",
         "placeholder": "assets/mfbunko.jpg"
     },
     {
