@@ -118,5 +118,25 @@
         "id": 39,
         "isbn": "9784824009456",
         "placeholder": "assets/overlap.jpg"
+    },
+    {
+        "id": 40,
+        "isbn": "9784867166291",
+        "placeholder": "assets/gcnbunko.jpg"
+    },
+    {
+        "id": 41,
+        "isbn": "9784867166321",
+        "placeholder": "assets/gcnbunko.jpg"
+    },
+    {
+        "id": 42,
+        "isbn": "9784867166314",
+        "placeholder": "assets/gcnbunko.jpg"
+    },
+    {
+        "id": 43,
+        "isbn": "9784867166307",
+        "placeholder": "assets/gcnbunko.jpg"
     }
 ]
