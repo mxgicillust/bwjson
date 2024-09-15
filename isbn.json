@@ -142,5 +142,10 @@
         "isbn": "9784867166307",
         "title": "毎日家に来るギャルが距離感ゼロでも優しくない 3",
         "placeholder": "assets/gcn.jpg"
+    },
+    {
+        "id": 44,
+        "isbn": "9784821146918",
+        "placeholder": "assets/bk.jpg"
     }
 ]
