@@ -150,7 +150,6 @@
         "publisher": "DX",
         "startdisplaydate": "2024-09-17T00:00:00"
     },
-    [
     {
         "id": 14,
         "isbn": "9784824009548",
@@ -196,5 +195,4 @@
         "isbn": "9784046840486",
         "placeholder": "assets/kdkwbooks.jpg"
     }
-]
 ]
