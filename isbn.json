@@ -1,35 +1,5 @@
 [
     {
-        "id": 17,
-        "isbn": "9784094532029",
-        "placeholder": "assets/gagaga.jpg"
-    },
-    {
-        "id": 18,
-        "isbn": "9784094532074",
-        "placeholder": "assets/gagaga.jpg"
-    },
-    {
-        "id": 19,
-        "isbn": "9784094532098",
-        "placeholder": "assets/gagaga.jpg"
-    },
-    {
-        "id": 20,
-        "isbn": "9784094532104",
-        "placeholder": "assets/gagaga.jpg"
-    },
-    {
-        "id": 21,
-        "isbn": "9784094532111",
-        "placeholder": "assets/gagaga.jpg"
-    },
-    {
-        "id": 22,
-        "isbn": "9784094532128",
-        "placeholder": "assets/gagaga.jpg"
-    },
-    {
         "id": 23,
         "isbn": "9784040754932",
         "placeholder": "assets/fantasia.jpg"
