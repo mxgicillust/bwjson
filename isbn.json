@@ -1,35 +1,5 @@
 [
     {
-        "id": 23,
-        "isbn": "9784040754932",
-        "placeholder": "assets/fantasia.jpg"
-    },
-    {
-        "id": 24,
-        "isbn": "9784040754949",
-        "placeholder": "assets/fantasia.jpg"
-    },
-    {
-        "id": 25,
-        "isbn": "9784040754994",
-        "placeholder": "assets/fantasia.jpg"
-    },
-    {
-        "id": 26,
-        "isbn": "9784040755786",
-        "placeholder": "assets/fantasia.jpg"
-    },
-    {
-        "id": 27,
-        "isbn": "9784040756172",
-        "placeholder": "assets/fantasia.jpg"
-    },
-    {
-        "id": 28,
-        "isbn": "9784040756189",
-        "placeholder": "assets/fantasia.jpg"
-    },
-    {
         "id": 29,
         "isbn": "9784040756271",
         "placeholder": "assets/fantasia.jpg"
@@ -65,60 +35,8 @@
         "placeholder": "assets/mfbunko.jpg"
     },
     {
-        "id": 40,
-        "isbn": "9784867166291",
-        "title": "結・「美人でお金持ちの彼女が欲しい」と言ったら、ワケあり女子がやってきた件。",
-        "placeholder": "assets/gcn.jpg"
-    },
-    {
-        "id": 41,
-        "isbn": "9784867166321",
-        "title": "人生二周目の鏑木先輩",
-        "placeholder": "assets/gcn.jpg"
-    },
-    {
-        "id": 42,
-        "isbn": "9784867166314",
-        "title": "爆乳たちに追放されたが戻れと言われても、もう遅……戻りましゅぅぅ！２",
-        "placeholder": "assets/gcn.jpg"
-    },
-    {
-        "id": 43,
-        "isbn": "9784867166307",
-        "title": "毎日家に来るギャルが距離感ゼロでも優しくない 3",
-        "placeholder": "assets/gcn.jpg"
-    },
-    {
         "id": 44,
         "isbn": "9784821146918"
-    },
-    {
-        "id": 44,
-        "isbn": "9784086315715",
-        "title": "史上最強の魔法剣士、Fランク冒険者に転生する 6",
-        "publisher": "DX",
-        "startdisplaydate": "2024-09-17T00:00:00"
-    },
-    {
-        "id": 45,
-        "isbn": "9784086315692",
-        "title": "ドラゴンギャルのネイリスト",
-        "publisher": "DX",
-        "startdisplaydate": "2024-09-17T00:00:00"
-    },
-    {
-        "id": 46,
-        "isbn": "9784086315708",
-        "title": "万年を生きる平和主義ヴァンパイア、いつの間にか世界最強に",
-        "publisher": "DX",
-        "startdisplaydate": "2024-09-17T00:00:00"
-    },
-    {
-        "id": 47,
-        "isbn": "9784086315678",
-        "title": "ぼくの壊れた正義はループする異世界で愛と罪を天秤にかける",
-        "publisher": "DX",
-        "startdisplaydate": "2024-09-17T00:00:00"
     },
     {
         "id": 14,
