@@ -75,18 +75,22 @@
     },
     {
         "isbn": "9784867166369",
-        "placeholder": "assets/gcnovels.jpg"
+        "placeholder": "assets/gcnovels.jpg",
+        "title": "賢者の弟子を名乗る賢者 21"
     },
     {
         "isbn": "9784867166383",
-        "placeholder": "assets/gcnovels.jpg"
+        "placeholder": "assets/gcnovels.jpg",
+        "title": "嘆きの亡霊は引退したい ～最弱ハンターによる最強パーティ育成術～ 12"
     },
     {
         "isbn": "9784867166390",
-        "placeholder": "assets/gcnovels.jpg"
+        "placeholder": "assets/gcnovels.jpg",
+        "title": "あの乙女ゲーは俺たちに厳しい世界です 4"
     },
     {
         "isbn": "9784867166376",
-        "placeholder": "assets/gcnovels.jpg"
+        "placeholder": "assets/gcnovels.jpg",
+        "title": "転生したら剣でした 18"
     }
 ]
