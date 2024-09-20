@@ -72,5 +72,21 @@
         "id": 22,
         "isbn": "9784046840486",
         "placeholder": "assets/kdkwbooks.jpg"
+    },
+    {
+        "isbn": "9784867166369",
+        "placeholder": "assets/gcnovels.jpg"
+    },
+    {
+        "isbn": "9784867166383",
+        "placeholder": "assets/gcnovels.jpg"
+    },
+    {
+        "isbn": "9784867166390",
+        "placeholder": "assets/gcnovels.jpg"
+    },
+    {
+        "isbn": "9784867166376",
+        "placeholder": "assets/gcnovels.jpg"
     }
 ]
