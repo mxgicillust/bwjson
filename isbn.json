@@ -1,77 +1,7 @@
 [
     {
-        "id": 32,
-        "isbn": "9784046840059",
-        "placeholder": "assets/mfbunko.jpg"
-    },
-    {
-        "id": 33,
-        "isbn": "9784046840066",
-        "placeholder": "assets/mfbunko.jpg"
-    },
-    {
-        "id": 34,
-        "isbn": "9784046840073",
-        "placeholder": "assets/mfbunko.jpg"
-    },
-    {
-        "id": 35,
-        "isbn": "9784046840080",
-        "placeholder": "assets/mfbunko.jpg"
-    },
-    {
-        "id": 36,
-        "isbn": "9784046840103",
-        "placeholder": "assets/mfbunko.jpg"
-    },
-    {
         "id": 44,
         "isbn": "9784821146918"
-    },
-    {
-        "id": 14,
-        "isbn": "9784824009548",
-        "placeholder": "assets/overlapnovels.jpg"
-    },
-    {
-        "id": 15,
-        "isbn": "9784824009500",
-        "placeholder": "assets/overlapnovels.jpg"
-    },
-    {
-        "id": 16,
-        "isbn": "9784824009470",
-        "placeholder": "assets/overlap.jpg"
-    },
-    {
-        "id": 17,
-        "isbn": "9784824009487",
-        "placeholder": "assets/overlap.jpg"
-    },
-    {
-        "id": 18,
-        "isbn": "9784824009432",
-        "placeholder": "assets/overlap.jpg"
-    },
-    {
-        "id": 19,
-        "isbn": "9784824009449",
-        "placeholder": "assets/overlap.jpg"
-    },
-    {
-        "id": 20,
-        "isbn": "9784824009173",
-        "placeholder": "assets/overlap.jpg"
-    },
-    {
-        "id": 21,
-        "isbn": "9784824009456",
-        "placeholder": "assets/overlap.jpg"
-    },
-    {
-        "id": 22,
-        "isbn": "9784046840486",
-        "placeholder": "assets/kdkwbooks.jpg"
     },
     {
         "isbn": "9784867166369",
