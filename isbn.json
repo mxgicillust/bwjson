@@ -147,5 +147,25 @@
         "id": 1022,
         "isbn": "9784074604869",
         "placeholder": "assets/herobunko.jpg"
+    },
+    {
+        "isbn": "9784798635026",
+        "placeholder": "assets/hjbunko.jpg"
+    },
+    {
+        "isbn": "9784798636429",
+        "placeholder": "assets/hjbunko.jpg"
+    },
+    {
+        "isbn": "9784798636436",
+        "placeholder": "assets/hjbunko.jpg"
+    },
+    {
+        "isbn": "9784798636443",
+        "placeholder": "assets/hjbunko.jpg"
+    },
+    {
+        "isbn": "9784798636573",
+        "placeholder": "assets/hjbunko.jpg"
     }
 ]
