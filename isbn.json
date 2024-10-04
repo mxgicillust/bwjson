@@ -10,5 +10,45 @@
     {
         "isbn": "9784815626945",
         "placeholder": "assets/ganovels.jpg"
+    },
+    {
+        "id": 999,
+        "isbn": "9784049151329",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "id": 1000,
+        "isbn": "9784049159806",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "id": 1001,
+        "isbn": "9784049159790",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "id": 1002,
+        "isbn": "9784049159073",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "id": 1003,
+        "isbn": "9784049158595",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "id": 1004,
+        "isbn": "9784049158038",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "id": 1005,
+        "isbn": "9784049157956",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "id": 1006,
+        "isbn": "9784049156539",
+        "placeholder": "assets/dengeki.jpg"
     }
 ]
