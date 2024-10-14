@@ -50,5 +50,23 @@
         "id": 1006,
         "isbn": "9784049156539",
         "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "id": 1006,
+        "isbn": "9784867166468",
+        "placeholder": "assets/gcnbunko.jpg",
+        "title": "ハブられルーン使いの異世界冒険譚 3"
+    },
+    {
+        "id": 1006,
+        "isbn": "9784867166475",
+        "placeholder": "assets/gcnbunko.jpg",
+        "title": "全員覚悟ガンギマリなエロゲーの邪教徒モブに転生してしまった件 2"
+    },
+    {
+        "id": 1006,
+        "isbn": "9784867166482",
+        "placeholder": "assets/gcnbunko.jpg",
+        "title": "フェアリー・バレット －機巧乙女と偽獣兵士－"
     }
 ]
