@@ -25,12 +25,14 @@
     {
         "id": 996,
         "isbn": "9784040753386",
-        "placeholder": "assets/fantasia.jpg"
+        "placeholder": "assets/fantasia.jpg",
+        "title": "スパイ教室 12"
     },
     {
         "id": 997,
         "isbn": "9784040754901",
-        "placeholder": "assets/fantasia.jpg"
+        "placeholder": "assets/fantasia.jpg",
+        "title": "双星の天剣使い 6"
     },
     {
         "id": 998,
@@ -40,22 +42,26 @@
     {
         "id": 999,
         "isbn": "9784040755274",
-        "placeholder": "assets/fantasia.jpg"
+        "placeholder": "assets/fantasia.jpg",
+        "title": "週に一度クラスメイトを買う話 5"
     },
     {
         "id": 1000,
         "isbn": "9784040755793",
-        "placeholder": "assets/fantasia.jpg"
+        "placeholder": "assets/fantasia.jpg",
+        "title": "お隣の美人エルフの距離感が近すぎる件"
     },
     {
         "id": 1001,
         "isbn": "9784040756158",
-        "placeholder": "assets/fantasia.jpg"
+        "placeholder": "assets/fantasia.jpg",
+        "title": "はじめよう、ヒーロー不在の戦線を。"
     },
     {
         "id": 1002,
         "isbn": "9784040756202",
-        "placeholder": "assets/fantasia.jpg"
+        "placeholder": "assets/fantasia.jpg",
+        "title": "ロクでなし魔術講師と追想日誌 11"
     },
     {
         "id": 1003,
@@ -75,7 +81,8 @@
     {
         "id": 1006,
         "isbn": "9784040756233",
-        "placeholder": "assets/fantasia.jpg"
+        "placeholder": "assets/fantasia.jpg",
+        "publisher": "ファンタジア文庫"
     },
     {
         "id": 1007,
