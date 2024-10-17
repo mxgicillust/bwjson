@@ -107,7 +107,8 @@
         {
         "id": 915,
         "isbn": "9784046842305",
-        "placeholder": "assets/mfbunko.jpg"
+        "placeholder": "assets/mfbunko.jpg",
+        "maxPage": 11
     },
     {
         "id": 916,
