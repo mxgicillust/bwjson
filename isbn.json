@@ -144,5 +144,40 @@
         "id": 922,
         "isbn": "9784046840110",
         "placeholder": "assets/mfbunko.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784824009463",
+        "placeholder": "assets/overlap.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784824009654",
+        "placeholder": "assets/overlap.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784824009661",
+        "placeholder": "assets/overlap.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784824009678",
+        "placeholder": "assets/overlap.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784824009685",
+        "placeholder": "assets/overlap.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784824009692",
+        "placeholder": "assets/overlap.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784824009715",
+        "placeholder": "assets/overlap.jpg"
     }
 ]
