@@ -179,5 +179,25 @@
         "id": 922,
         "isbn": "9784824009715",
         "placeholder": "assets/overlap.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784824203144",
+        "placeholder": "assets/brave.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784824203151",
+        "placeholder": "assets/brave.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784824202970",
+        "placeholder": "assets/brave.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784824203021",
+        "placeholder": "assets/brave.jpg"
     }
 ]
