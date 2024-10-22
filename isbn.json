@@ -199,5 +199,35 @@
         "id": 922,
         "isbn": "9784824203021",
         "placeholder": "assets/brave.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784086315722",
+        "placeholder": "assets/dx.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784086315739",
+        "placeholder": "assets/dx.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784086315746",
+        "placeholder": "assets/fx.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784086315753",
+        "placeholder": "assets/dx.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784801514850",
+        "placeholder": "assets/now-printing.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784801514874",
+        "placeholder": "assets/now-printing.jpg"
     }
 ]
