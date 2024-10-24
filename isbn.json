@@ -135,5 +135,35 @@
         "id": 922,
         "isbn": "9784801514874",
         "placeholder": "assets/now-printing.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784041149751",
+        "placeholder": "assets/sneaker.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784041150702",
+        "placeholder": "assets/sneaker.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784041150733",
+        "placeholder": "assets/sneaker.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784041155486",
+        "placeholder": "assets/sneaker.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784041155493",
+        "placeholder": "assets/sneaker.jpg"
+    },
+    {
+        "id": 922,
+        "isbn": "9784041156278",
+        "placeholder": "assets/sneaker.jpg"
     }
 ]
