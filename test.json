@@ -1,57 +1,62 @@
 [
     {
+        "isbn": "9784041150733",
+        "placeholder": "assets/sneaker.jpg",
+        "postTime": "2024-11-01T07:00:00Z"
+    },
+    {
         "isbn": "9784049160888",
         "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T07:00:00Z"
+        "postTime": "2024-11-09T07:00:00Z"
     },
     {
         "isbn": "9784049160833",
         "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T08:00:00Z"
+        "postTime": "2024-11-08T08:00:00Z"
     },
     {
         "isbn": "9784049159837",
         "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T08:00:00Z"
+        "postTime": "2024-11-08T08:00:00Z"
     },
     {
         "isbn": "9784049159820",
         "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T08:00:00Z"
+        "postTime": "2024-11-08T08:00:00Z"
     },
     {
         "isbn": "9784049159813",
         "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T08:00:00Z"
+        "postTime": "2024-11-08T08:00:00Z"
     },
     {
         "isbn": "9784049158564",
         "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T08:00:00Z"
+        "postTime": "2024-11-08T08:00:00Z"
     },
     {
         "isbn": "9784049158045",
         "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T08:00:00Z"
+        "postTime": "2024-11-08T08:00:00Z"
     },
     {
         "isbn": "9784049158014",
         "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T08:00:00Z"
+        "postTime": "2024-11-08T08:00:00Z"
     },
     {
         "isbn": "9784049157833",
         "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T08:00:00Z"
+        "postTime": "2024-11-08T08:00:00Z"
     },
     {
         "isbn": "9784049156584",
         "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T08:00:00Z"
+        "postTime": "2024-11-08T08:00:00Z"
     },
     {
         "isbn": "9784049156461",
         "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T08:00:00Z"
+        "postTime": "2024-11-08T08:00:00Z"
     }
 ]
