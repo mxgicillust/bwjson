@@ -1,60 +1,5 @@
 [
     {
-        "isbn": "9784049160888",
-        "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T07:00:00Z"
-    },
-    {
-        "isbn": "9784049160833",
-        "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T08:00:00Z"
-    },
-    {
-        "isbn": "9784049159837",
-        "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T08:00:00Z"
-    },
-    {
-        "isbn": "9784049159820",
-        "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T08:00:00Z"
-    },
-    {
-        "isbn": "9784049159813",
-        "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T08:00:00Z"
-    },
-    {
-        "isbn": "9784049158564",
-        "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T08:00:00Z"
-    },
-    {
-        "isbn": "9784049158045",
-        "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T08:00:00Z"
-    },
-    {
-        "isbn": "9784049158014",
-        "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T08:00:00Z"
-    },
-    {
-        "isbn": "9784049157833",
-        "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T08:00:00Z"
-    },
-    {
-        "isbn": "9784049156584",
-        "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T08:00:00Z"
-    },
-    {
-        "isbn": "9784049156461",
-        "placeholder": "assets/dengeki.jpg",
-        "releaseTime": "2024-11-08T08:00:00Z"
-    },
-    {
         "isbn": "9784815624804",
         "placeholder": "assets/ga.jpg",
         "releaseTime": "2024-11-08T10:00:00Z"
@@ -77,6 +22,41 @@
     {
         "isbn": "9784815615772",
         "placeholder": "assets/ga.jpg",
+        "releaseTime": "2024-11-08T10:20:00Z"
+    },
+    {
+        "isbn": "9784040755809",
+        "placeholder": "assets/fantasia.jpg",
+        "releaseTime": "2024-11-08T10:20:00Z"
+    },
+    {
+        "isbn": "9784040756660",
+        "placeholder": "assets/fantasia.jpg",
+        "releaseTime": "2024-11-08T10:20:00Z"
+    },
+    {
+        "isbn": "9784040756691",
+        "placeholder": "assets/fantasia.jpg",
+        "releaseTime": "2024-11-08T10:20:00Z"
+    },
+    {
+        "isbn": "9784040756813",
+        "placeholder": "assets/fantasia.jpg",
+        "releaseTime": "2024-11-08T10:20:00Z"
+    },
+    {
+        "isbn": "9784040756165",
+        "placeholder": "assets/fantasia.jpg",
+        "releaseTime": "2024-11-08T10:20:00Z"
+    },
+    {
+        "isbn": "9784867166642",
+        "placeholder": "assets/gcnbunko.jpg",
+        "releaseTime": "2024-11-08T10:20:00Z"
+    },
+    {
+        "isbn": "9784867166635",
+        "placeholder": "assets/gcnbunko.jpg",
         "releaseTime": "2024-11-08T10:20:00Z"
     }
 ]
