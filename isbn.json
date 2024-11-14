@@ -58,5 +58,30 @@
         "isbn": "9784867166635",
         "placeholder": "assets/gcnbunko.jpg",
         "releaseTime": "2024-11-08T10:20:00Z"
+    },
+    {
+        "isbn": "9784094532203",
+        "placeholder": "assets/gagaga.jpg",
+        "releaseTime": "2024-11-08T10:20:00Z"
+    },
+    {
+        "isbn": "9784094532197",
+        "placeholder": "assets/gagaga.jpg",
+        "releaseTime": "2024-11-08T10:20:00Z"
+    },
+    {
+        "isbn": "9784094532173",
+        "placeholder": "assets/gagaga.jpg",
+        "releaseTime": "2024-11-08T10:20:00Z"
+    },
+    {
+        "isbn": "9784094532166",
+        "placeholder": "assets/gagaga.jpg",
+        "releaseTime": "2024-11-08T10:20:00Z"
+    },
+    {
+        "isbn": "9784094532142",
+        "placeholder": "assets/gagaga.jpg",
+        "releaseTime": "2024-11-08T10:20:00Z"
     }
 ]
