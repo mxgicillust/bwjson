@@ -203,5 +203,25 @@
     {
         "isbn": "9784867166741",
         "placeholder": "assets/gcnovels.jpg"
+    },
+    {
+        "isbn": "9784086315777",
+        "placeholder": "assets/dxbunko.jpg"
+    },
+    {
+        "isbn": "9784086315784",
+        "placeholder": "assets/dxbunko.jpg"
+    },
+    {
+        "isbn": "9784086315760",
+        "placeholder": "assets/dxbunko.jpg"
+    },
+    {
+        "isbn": "9784065376171",
+        "placeholder": "assets/kranobe.jpg"
+    },
+    {
+        "isbn": "9784824203199",
+        "placeholder": "assets/bravebunko.jpg"
     }
 ]
