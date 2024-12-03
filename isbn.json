@@ -1,130 +1,5 @@
 [
     {
-        "isbn": "9784815624804",
-        "placeholder": "assets/ga.jpg",
-        "releaseTime": "2024-11-08T10:00:00Z"
-    },
-    {
-        "isbn": "9784815629267",
-        "placeholder": "assets/ga.jpg",
-        "releaseTime": "2024-11-08T10:05:00Z"
-    },
-    {
-        "isbn": "9784815624156",
-        "placeholder": "assets/ga.jpg",
-        "releaseTime": "2024-11-08T10:10:00Z"
-    },
-    {
-        "isbn": "9784815621124",
-        "placeholder": "assets/ga.jpg",
-        "releaseTime": "2024-11-08T10:15:00Z"
-    },
-    {
-        "isbn": "9784815615772",
-        "placeholder": "assets/ga.jpg",
-        "releaseTime": "2024-11-08T10:20:00Z"
-    },
-    {
-        "isbn": "9784040755809",
-        "placeholder": "assets/fantasia.jpg",
-        "releaseTime": "2024-11-08T10:20:00Z"
-    },
-    {
-        "isbn": "9784040756660",
-        "placeholder": "assets/fantasia.jpg",
-        "releaseTime": "2024-11-08T10:20:00Z"
-    },
-    {
-        "isbn": "9784040756691",
-        "placeholder": "assets/fantasia.jpg",
-        "releaseTime": "2024-11-08T10:20:00Z"
-    },
-    {
-        "isbn": "9784040756813",
-        "placeholder": "assets/fantasia.jpg",
-        "releaseTime": "2024-11-08T10:20:00Z"
-    },
-    {
-        "isbn": "9784040756165",
-        "placeholder": "assets/fantasia.jpg",
-        "releaseTime": "2024-11-08T10:20:00Z"
-    },
-    {
-        "isbn": "9784867166642",
-        "placeholder": "assets/gcnbunko.jpg",
-        "releaseTime": "2024-11-08T10:20:00Z"
-    },
-    {
-        "isbn": "9784867166635",
-        "placeholder": "assets/gcnbunko.jpg",
-        "releaseTime": "2024-11-08T10:20:00Z"
-    },
-    {
-        "isbn": "9784094532203",
-        "placeholder": "assets/gagaga.jpg",
-        "releaseTime": "2024-11-08T10:20:00Z"
-    },
-    {
-        "isbn": "9784094532197",
-        "placeholder": "assets/gagaga.jpg",
-        "releaseTime": "2024-11-08T10:20:00Z"
-    },
-    {
-        "isbn": "9784094532173",
-        "placeholder": "assets/gagaga.jpg",
-        "releaseTime": "2024-11-08T10:20:00Z"
-    },
-    {
-        "isbn": "9784094532166",
-        "placeholder": "assets/gagaga.jpg",
-        "releaseTime": "2024-11-08T10:20:00Z"
-    },
-    {
-        "isbn": "9784094532142",
-        "placeholder": "assets/gagaga.jpg",
-        "releaseTime": "2024-11-08T10:20:00Z"
-    },
-    {
-        "isbn": "9784041154397",
-        "placeholder": "assets/sneaker.jpg"
-    },
-    {
-        "isbn": "9784041152287",
-        "placeholder": "assets/sneaker.jpg"
-    },
-    {
-        "isbn": "9784041156117",
-        "placeholder": "assets/sneaker.jpg"
-    },
-    {
-        "isbn": "9784041157428",
-        "placeholder": "assets/sneaker.jpg"
-    },
-    {
-        "isbn": "9784041157404",
-        "placeholder": "assets/sneaker.jpg"
-    },
-    {
-        "isbn": "9784041156285",
-        "placeholder": "assets/sneaker.jpg"
-    },
-    {
-        "isbn": "9784041156308",
-        "placeholder": "assets/sneaker.jpg"
-    },
-    {
-        "isbn": "9784041157398",
-        "placeholder": "assets/sneaker.jpg"
-    },
-    {
-        "isbn": "9784041153185",
-        "placeholder": "assets/sneaker.jpg"
-    },
-    {
-        "isbn": "9784041155509",
-        "placeholder": "assets/sneaker.jpg"
-    },
-    {
         "isbn": "9784798636962",
         "placeholder": "assets/hjbunko.jpg"
     },
@@ -149,79 +24,247 @@
         "placeholder": "assets/hjbunko.jpg"
     },
     {
-        "isbn": "9784046839169",
-        "placeholder": "assets/mfbunkoj.jpg"
+        "isbn": "9784040756141",
+        "placeholder": "assets/dengeki.jpg"
     },
     {
-        "isbn": "9784046842701",
-        "placeholder": "assets/mfbunkoj.jpg"
+        "isbn": "9784049157017",
+        "placeholder": "assets/dengeki.jpg"
     },
     {
-        "isbn": "9784046842527",
-        "placeholder": "assets/mfbunkoj.jpg"
+        "isbn": "9784049158618",
+        "placeholder": "assets/dengeki.jpg"
     },
     {
-        "isbn": "9784046842282",
-        "placeholder": "assets/mfbunkoj.jpg"
+        "isbn": "9784049159097",
+        "placeholder": "assets/dengeki.jpg"
     },
     {
-        "isbn": "9784046842442",
-        "placeholder": "assets/mfbunkoj.jpg"
+        "isbn": "9784049159103",
+        "placeholder": "assets/dengeki.jpg"
     },
     {
-        "isbn": "9784046842152",
-        "placeholder": "assets/mfbunkoj.jpg"
+        "isbn": "9784049159110",
+        "placeholder": "assets/dengeki.jpg"
     },
     {
-        "isbn": "9784046834768",
-        "placeholder": "assets/mfbunkoj.jpg"
+        "isbn": "9784049159776",
+        "placeholder": "assets/dengeki.jpg"
     },
     {
-        "isbn": "9784824009944",
+        "isbn": "9784049159882",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "isbn": "9784049160550",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "isbn": "9784049160932",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "isbn": "9784049160956",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "isbn": "9784049160987",
+        "placeholder": "assets/dengeki.jpg"
+    },
+    {
+        "isbn": "9784094532081",
+        "placeholder": "assets/gagaga.jpg"
+    },
+    {
+        "isbn": "9784094532210",
+        "placeholder": "assets/gagaga.jpg"
+    },
+    {
+        "isbn": "9784094532227",
+        "placeholder": "assets/gagaga.jpg"
+    },
+    {
+        "isbn": "9784094532241",
+        "placeholder": "assets/gagaga.jpg"
+    },
+    {
+        "isbn": "9784094532258",
+        "placeholder": "assets/gagaga.jpg"
+    },
+    {
+        "isbn": "9784815625566",
+        "placeholder": "assets/gabunko.jpg"
+    },
+    {
+        "isbn": "9784815628697",
+        "placeholder": "assets/gabunko.jpg"
+    },
+    {
+        "isbn": "9784815626303",
+        "placeholder": "assets/gabunko.jpg"
+    },
+    {
+        "isbn": "9784815629069",
+        "placeholder": "assets/gabunko.jpg"
+    },
+    {
+        "isbn": "9784815626969",
+        "placeholder": "assets/gabunko.jpg"
+    },
+    {
+        "isbn": "9784040756240",
+        "placeholder": "assets/fantasia.jpg"
+    },
+    {
+        "isbn": "9784040757292",
+        "placeholder": "assets/fantasia.jpg"
+    },
+    {
+        "isbn": "9784040756264",
+        "placeholder": "assets/fantasia.jpg"
+    },
+    {
+        "isbn": "9784040757339",
+        "placeholder": "assets/fantasia.jpg"
+    },
+    {
+        "isbn": "9784040757308",
+        "placeholder": "assets/fantasia.jpg"
+    },
+    {
+        "isbn": "9784040757223",
+        "placeholder": "assets/fantasia.jpg"
+    },
+    {
+        "isbn": "9784040756677",
+        "placeholder": "assets/fantasia.jpg"
+    },
+    {
+        "isbn": "9784867166833",
+        "placeholder": "assets/gcnbunko.jpg"
+    },
+    {
+        "isbn": "9784867166826",
+        "placeholder": "assets/gcnbunko.jpg"
+    },
+    {
+        "isbn": "9784867166840",
+        "placeholder": "assets/gcnbunko.jpg"
+    },
+    {
+        "isbn": "9784824010230",
         "placeholder": "assets/overlap.jpg"
     },
     {
-        "isbn": "9784824009937",
+        "isbn": "9784824010186",
         "placeholder": "assets/overlap.jpg"
     },
     {
-        "isbn": "9784824009920",
+        "isbn": "9784824010247",
         "placeholder": "assets/overlap.jpg"
     },
     {
-        "isbn": "9784824009913",
+        "isbn": "9784824010179",
         "placeholder": "assets/overlap.jpg"
     },
     {
-        "isbn": "9784867166727",
-        "placeholder": "assets/gcnovels.jpg"
+        "isbn": "9784824010162",
+        "placeholder": "assets/overlap.jpg"
     },
     {
-        "isbn": "9784867166710",
-        "placeholder": "assets/gcnovels.jpg"
+        "isbn": "9784824010278",
+        "placeholder": "assets/overlap.jpg"
     },
     {
-        "isbn": "9784867166741",
-        "placeholder": "assets/gcnovels.jpg"
+        "isbn": "9784824010254",
+        "placeholder": "assets/overlap.jpg"
     },
     {
-        "isbn": "9784086315777",
-        "placeholder": "assets/dxbunko.jpg"
+        "isbn": "9784824010261",
+        "placeholder": "assets/overlap.jpg"
     },
     {
-        "isbn": "9784086315784",
-        "placeholder": "assets/dxbunko.jpg"
+        "isbn": "9784824010216",
+        "placeholder": "assets/overlap.jpg"
     },
     {
-        "isbn": "9784086315760",
-        "placeholder": "assets/dxbunko.jpg"
+        "isbn": "9784824010209",
+        "placeholder": "assets/sneaker.jpg"
     },
     {
-        "isbn": "9784065376171",
-        "placeholder": "assets/kranobe.jpg"
+        "isbn": "9784824010223",
+        "placeholder": "assets/sneaker.jpg"
     },
     {
-        "isbn": "9784824203199",
-        "placeholder": "assets/bravebunko.jpg"
+        "isbn": "9784824009708",
+        "placeholder": "assets/sneaker.jpg"
+    },
+    {
+        "isbn": "9784046843388",
+        "placeholder": "assets/mfbunkoj.jpg"
+    },
+    {
+        "isbn": "9784046843395",
+        "placeholder": "assets/mfbunkoj.jpg"
+    },
+    {
+        "isbn": "9784046843401",
+        "placeholder": "assets/mfbunkoj.jpg"
+    },
+    {
+        "isbn": "9784046843418",
+        "placeholder": "assets/mfbunkoj.jpg"
+    },
+    {
+        "isbn": "9784046843425",
+        "placeholder": "assets/mfbunkoj.jpg"
+    },
+    {
+        "isbn": "9784046843432",
+        "placeholder": "assets/mfbunkoj.jpg"
+    },
+    {
+        "isbn": "9784041154380",
+        "placeholder": "assets/sneaker.jpg"
+    },
+    {
+        "isbn": "9784041156247",
+        "placeholder": "assets/sneaker.jpg"
+    },
+    {
+        "isbn": "9784041157442",
+        "placeholder": "assets/sneaker.jpg"
+    },
+    {
+        "isbn": "9784824010209",
+        "placeholder": "assets/sneaker.jpg"
+    },
+    {
+        "isbn": "9784824010223",
+        "placeholder": "assets/sneaker.jpg"
+    },
+    {
+        "isbn": "9784824009708",
+        "placeholder": "assets/sneaker.jpg"
+    },
+    {
+        "isbn": "9784798637235",
+        "placeholder": "assets/hjbunko.jpg"
+    },
+    {
+        "isbn": "9784798637273",
+        "placeholder": "assets/hjbunko.jpg"
+    },
+    {
+        "isbn": "9784798637266",
+        "placeholder": "assets/hjbunko.jpg"
+    },
+    {
+        "isbn": "9784798637228",
+        "placeholder": "assets/hjbunko.jpg"
+    },
+    {
+        "isbn": "9784798637259",
+        "placeholder": "assets/hjbunko.jpg"
     }
 ]
