@@ -1,6 +1,10 @@
 [
     {
-        "isbn": "dsdsdsd",
+        "isbn": "443423423423424",
+        "placeholder": "assets/hj.jpg"
+    },
+    {
+        "isbn": "43242343423423",
         "placeholder": "assets/hj.jpg"
     }
 ]
