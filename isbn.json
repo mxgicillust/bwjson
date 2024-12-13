@@ -274,5 +274,9 @@
     {
         "isbn": "9784798637259",
         "placeholder": "assets/hjbunko.jpg"
+    },
+    {
+        "isbn": "9784391163827",
+        "placeholder": "assets/now-printing.jpg"
     }
 ]
