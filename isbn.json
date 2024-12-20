@@ -162,5 +162,10 @@
   {
     "isbn": "9784046843449",
     "placeholder": "assets/mfbunkoj.jpg"
+  },
+  {
+    "id": null,
+    "isbn": "9784047382169",
+    "placeholder": "assets/famitsu.jpg"
   }
 ]
