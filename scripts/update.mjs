@@ -1,6 +1,8 @@
 import fs from 'fs/promises';
 import fetch from 'node-fetch';
 
+const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
 const fetchISBN = async () => {
     try {
         const response = await fetch(`https://raw.githubusercontent.com/mxgicillust/bwjson/main/isbn.json?t=${Date.now()}`);
@@ -8,12 +10,18 @@ const fetchISBN = async () => {
             console.error('Error fetching ISBN list:', response.statusText);
             return [];
         }
-        return await response.json();
+
+        const dataList = await response.json();
+        // Debug
+        const isbnList = dataList.map(item => item.isbn).filter(Boolean); 
+        console.log('Fetched ISBN list:', isbnList);
+        return isbnList;
     } catch (error) {
         console.error('Error loading ISBN list:', error);
         return [];
     }
 };
+fetchISBN()
 
 const fetchRakutenData = async (isbn) => {
     try {
@@ -28,7 +36,7 @@ const fetchRakutenData = async (isbn) => {
         const book = data?.Items?.[0]?.Item;
 
         if (!book) {
-            console.warn(`No valid book data on ISBN: ${isbn}`);
+            console.warn(`No valid book data from Rakuten API for ISBN: ${isbn}`);
             return null;
         }
 
@@ -39,7 +47,7 @@ const fetchRakutenData = async (isbn) => {
 
         return {
             isbn,
-            title: book.title || "No Title",
+            title: book.title || "No Title Available",
             publisher: book.seriesName || "Unknown Publisher",
             releaseDate,
         };
@@ -67,9 +75,12 @@ const updateCache = async () => {
         if (data) {
             cache[isbn] = data;
         }
+
+        console.log(`Waiting for 1 second to respect rate limit...`);
+        await sleep(1000);
     }
 
-    const jsonFilePath = './cached_data.json';
+    const jsonFilePath = './data.json';
     await fs.writeFile(jsonFilePath, JSON.stringify(cache, null, 2), 'utf8');
     console.log(`Cache updated successfully: ${jsonFilePath}`);
 };
