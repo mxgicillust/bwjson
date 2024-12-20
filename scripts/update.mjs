@@ -48,7 +48,7 @@ const fetchRakutenData = async (isbn) => {
         return {
             isbn,
             title: book.title || "No Title Available",
-            publisher: book.seriesName || "Unknown Publisher",
+            publisher: book.seriesName || " ",
             releaseDate,
         };
     } catch (error) {
