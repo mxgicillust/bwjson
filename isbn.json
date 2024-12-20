@@ -172,5 +172,9 @@
     "id": null,
     "isbn": "9784867166925",
     "placeholder": "assets/gcnovels.jpg"
+  },
+  {
+    "isbn": "9784086315807",
+    "placeholder": "assets/dxbunko.jpg"
   }
 ]
