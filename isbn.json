@@ -167,5 +167,10 @@
     "id": null,
     "isbn": "9784047382169",
     "placeholder": "assets/famitsu.jpg"
+  },
+  {
+    "id": null,
+    "isbn": "9784867166925",
+    "placeholder": "assets/gcnovels.jpg"
   }
 ]
