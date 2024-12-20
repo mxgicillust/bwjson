@@ -22,7 +22,7 @@ jobs:
       run: npm install node-fetch
 
     - name: Run cache update script
-      run: node scripts/updateCache.js
+      run: node scripts/update.js
 
     - name: Commit and push changes
       run: |
