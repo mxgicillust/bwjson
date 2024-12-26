@@ -1,14 +1,6 @@
 [
   {
-    "isbn": "9784040756240",
-    "placeholder": "assets/fantasia.jpg"
-  },
-  {
     "isbn": "9784040757292",
-    "placeholder": "assets/fantasia.jpg"
-  },
-  {
-    "isbn": "9784040756264",
     "placeholder": "assets/fantasia.jpg"
   },
   {
@@ -16,15 +8,7 @@
     "placeholder": "assets/fantasia.jpg"
   },
   {
-    "isbn": "9784040757308",
-    "placeholder": "assets/fantasia.jpg"
-  },
-  {
     "isbn": "9784040757223",
-    "placeholder": "assets/fantasia.jpg"
-  },
-  {
-    "isbn": "9784040756677",
     "placeholder": "assets/fantasia.jpg"
   },
   {
@@ -32,23 +16,11 @@
     "placeholder": "assets/gcnbunko.jpg"
   },
   {
-    "isbn": "9784867166826",
-    "placeholder": "assets/gcnbunko.jpg"
-  },
-  {
     "isbn": "9784867166840",
     "placeholder": "assets/gcnbunko.jpg"
   },
   {
-    "isbn": "9784824010230",
-    "placeholder": "assets/overlap.jpg"
-  },
-  {
     "isbn": "9784824010186",
-    "placeholder": "assets/overlap.jpg"
-  },
-  {
-    "isbn": "9784824010247",
     "placeholder": "assets/overlap.jpg"
   },
   {
@@ -56,15 +28,7 @@
     "placeholder": "assets/overlap.jpg"
   },
   {
-    "isbn": "9784824010162",
-    "placeholder": "assets/overlap.jpg"
-  },
-  {
     "isbn": "9784824010278",
-    "placeholder": "assets/overlap.jpg"
-  },
-  {
-    "isbn": "9784824010254",
     "placeholder": "assets/overlap.jpg"
   },
   {
@@ -72,15 +36,7 @@
     "placeholder": "assets/overlap.jpg"
   },
   {
-    "isbn": "9784824010216",
-    "placeholder": "assets/overlap.jpg"
-  },
-  {
     "isbn": "9784824010209",
-    "placeholder": "assets/sneaker.jpg"
-  },
-  {
-    "isbn": "9784824010223",
     "placeholder": "assets/sneaker.jpg"
   },
   {
@@ -88,15 +44,7 @@
     "placeholder": "assets/sneaker.jpg"
   },
   {
-    "isbn": "9784046843388",
-    "placeholder": "assets/mfbunkoj.jpg"
-  },
-  {
     "isbn": "9784046843395",
-    "placeholder": "assets/mfbunkoj.jpg"
-  },
-  {
-    "isbn": "9784046843401",
     "placeholder": "assets/mfbunkoj.jpg"
   },
   {
@@ -104,23 +52,11 @@
     "placeholder": "assets/mfbunkoj.jpg"
   },
   {
-    "isbn": "9784046843425",
-    "placeholder": "assets/mfbunkoj.jpg"
-  },
-  {
     "isbn": "9784046843432",
     "placeholder": "assets/mfbunkoj.jpg"
   },
   {
-    "isbn": "9784041154380",
-    "placeholder": "assets/sneaker.jpg"
-  },
-  {
     "isbn": "9784041156247",
-    "placeholder": "assets/sneaker.jpg"
-  },
-  {
-    "isbn": "9784041157442",
     "placeholder": "assets/sneaker.jpg"
   },
   {
@@ -128,23 +64,11 @@
     "placeholder": "assets/overlap.jpg"
   },
   {
-    "isbn": "9784824010315",
-    "placeholder": "assets/overlap.jpg"
-  },
-  {
     "isbn": "9784824010322",
     "placeholder": "assets/overlap.jpg"
   },
   {
-    "isbn": "9784798637235",
-    "placeholder": "assets/hjbunko.jpg"
-  },
-  {
     "isbn": "9784798637273",
-    "placeholder": "assets/hjbunko.jpg"
-  },
-  {
-    "isbn": "9784798637266",
     "placeholder": "assets/hjbunko.jpg"
   },
   {
@@ -152,26 +76,13 @@
     "placeholder": "assets/hjbunko.jpg"
   },
   {
-    "isbn": "9784798637259",
-    "placeholder": "assets/hjbunko.jpg"
-  },
-  {
     "isbn": "9784391163827",
     "placeholder": "assets/now-printing.jpg"
-  },
-  {
-    "isbn": "9784046843449",
-    "placeholder": "assets/mfbunkoj.jpg"
   },
   {
     "id": null,
     "isbn": "9784047382169",
     "placeholder": "assets/famitsu.jpg"
-  },
-  {
-    "id": null,
-    "isbn": "9784867166925",
-    "placeholder": "assets/gcnovels.jpg"
   },
   {
     "isbn": "9784086315807",
@@ -200,11 +111,11 @@
   {
     "isbn": "4970000000172",
     "placeholder": "assets/dxbunko.jpg",
-    "title": "ÃÂ¥ÃÂÃÂÃÂ£ÃÂÃÂ®ÃÂ©ÃÂ­ÃÂÃÂ¥ÃÂÃÂ£ÃÂ£ÃÂÃÂ¨ÃÂ§ÃÂÃÂ¾ÃÂ£ÃÂÃÂ®ÃÂ¤ÃÂ¹ÃÂÃÂ¥ÃÂ¥ÃÂ³ ÃÂ§ÃÂ¬ÃÂ¬2ÃÂ§ÃÂ«ÃÂ  ÃÂ£ÃÂÃÂ¼ÃÂ§ÃÂ ÃÂÃÂ¥ÃÂ¡ÃÂµÃÂ£ÃÂÃÂ«ÃÂ§ÃÂÃÂ ÃÂ£ÃÂÃÂÃÂ¥ÃÂÃÂÃÂ£ÃÂÃÂ®ÃÂ¦ÃÂ§ÃÂÃÂ£ÃÂÃÂ¼"
+    "title": "ÃÂÃÂ¥ÃÂÃÂÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ®ÃÂÃÂ©ÃÂÃÂ­ÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂ£ÃÂÃÂ£ÃÂÃÂÃÂÃÂ¨ÃÂÃÂ§ÃÂÃÂÃÂÃÂ¾ÃÂÃÂ£ÃÂÃÂÃÂÃÂ®ÃÂÃÂ¤ÃÂÃÂ¹ÃÂÃÂÃÂÃÂ¥ÃÂÃÂ¥ÃÂÃÂ³ ÃÂÃÂ§ÃÂÃÂ¬ÃÂÃÂ¬2ÃÂÃÂ§ÃÂÃÂ«ÃÂÃÂ  ÃÂÃÂ£ÃÂÃÂÃÂÃÂ¼ÃÂÃÂ§ÃÂÃÂ ÃÂÃÂÃÂÃÂ¥ÃÂÃÂ¡ÃÂÃÂµÃÂÃÂ£ÃÂÃÂÃÂÃÂ«ÃÂÃÂ§ÃÂÃÂÃÂÃÂ ÃÂÃÂ£ÃÂÃÂÃÂÃÂÃÂÃÂ¥ÃÂÃÂÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ®ÃÂÃÂ¦ÃÂÃÂ§ÃÂÃÂÃÂÃÂ£ÃÂÃÂÃÂÃÂ¼"
   },
   {
     "isbn": "9784049157895",
-    "placeholder": "86-Ã£ÂÂ¨Ã£ÂÂ¤Ã£ÂÂÃ£ÂÂ£Ã£ÂÂ·Ã£ÂÂÃ£ÂÂ¯Ã£ÂÂ¹Ã£ÂÂ¼Alter.2 -Ã©Â­ÂÃ¦Â³ÂÃ¥Â°ÂÃ¥Â¥Â³Ã£ÂÂ¬Ã£ÂÂ¸Ã£ÂÂ¼Ã£ÂÂÃ¢ÂÂÃ£ÂÂ¬Ã£ÂÂ¼Ã£ÂÂÃ£ÂÂÃ¦ÂÂ¦Ã£ÂÂÃ¯Â¼ÂÃ£ÂÂÃ©ÂÂÃ¦Â²Â³Ã¨ÂÂªÃ¨Â¡ÂÃ¦ÂÂ¦Ã¨ÂÂ¦Ã£ÂÂµÃ£ÂÂ³Ã£ÂÂÃ£ÂÂ°Ã£ÂÂÃ£ÂÂªÃ£ÂÂ¢Ã£ÂÂÃ£ÂÂ¼Ã¯Â¼Â2Ã¯Â¼Â"
+    "placeholder": "86-ÃÂ£ÃÂÃÂ¨ÃÂ£ÃÂÃÂ¤ÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂ£ÃÂ£ÃÂÃÂ·ÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂ¯ÃÂ£ÃÂÃÂ¹ÃÂ£ÃÂÃÂ¼Alter.2 -ÃÂ©ÃÂ­ÃÂÃÂ¦ÃÂ³ÃÂÃÂ¥ÃÂ°ÃÂÃÂ¥ÃÂ¥ÃÂ³ÃÂ£ÃÂÃÂ¬ÃÂ£ÃÂÃÂ¸ÃÂ£ÃÂÃÂ¼ÃÂ£ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ£ÃÂÃÂ¬ÃÂ£ÃÂÃÂ¼ÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂÃÂ¦ÃÂÃÂ¦ÃÂ£ÃÂÃÂÃÂ¯ÃÂ¼ÃÂÃÂ£ÃÂÃÂÃÂ©ÃÂÃÂÃÂ¦ÃÂ²ÃÂ³ÃÂ¨ÃÂÃÂªÃÂ¨ÃÂ¡ÃÂÃÂ¦ÃÂÃÂ¦ÃÂ¨ÃÂÃÂ¦ÃÂ£ÃÂÃÂµÃÂ£ÃÂÃÂ³ÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂ°ÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂªÃÂ£ÃÂÃÂ¢ÃÂ£ÃÂÃÂÃÂ£ÃÂÃÂ¼ÃÂ¯ÃÂ¼ÃÂ2ÃÂ¯ÃÂ¼ÃÂ"
   },
   {
     "isbn": "9784049160857",
