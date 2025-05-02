@@ -20,7 +20,8 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install beautifulsoup4 requests json time random date datetime ThreadPoolExecutor as_completed os
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 
 
     - name: Run scraper
       run: python bwreserve.py
