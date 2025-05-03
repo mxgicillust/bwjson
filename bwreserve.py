@@ -154,31 +154,40 @@ def merge_with_existing(new_data, filename='bookwalker_output.json'):
         with open(filename, 'r', encoding='utf-8') as f:
             existing_data = json.load(f)
 
-        existing_map = {book['url']: book for book in existing_data}
+        existing_map = {book['url'].rstrip('/'): book for book in existing_data}
+        new_map = {book['url'].rstrip('/'): book for book in new_data}
 
-        for new_book in new_data:
-            url = new_book['url']
+        for url, new_book in new_map.items():
             if url in existing_map:
                 old_book = existing_map[url]
                 old_reserve = old_book.get('reserve', {})
                 new_reserve = new_book.get('reserve', {})
+
+                # # Debug logging
+                # print(f"--- Merging book: {url}")
+                # print(f"  Old reserve: {old_reserve}")
+                # print(f"  New reserve: {new_reserve}")
+
+                # Merge reserve history
                 old_reserve.update(new_reserve)
-                old_book['reserve'] = old_reserve
-                old_book.update({
-                    'name': new_book.get('name', old_book.get('name')),
-                    'image': new_book.get('image', old_book.get('image')),
-                    'description': new_book.get('description', old_book.get('description')),
-                    'release_date': new_book.get('release_date', old_book.get('release_date')),
-                })
+                old_book['reserve'] = dict(sorted(old_reserve.items()))
+
+                # Update other metadata (non-destructively)
+                for key in ['name', 'image', 'description', 'release_date']:
+                    if new_book.get(key):
+                        old_book[key] = new_book[key]
+
             else:
+                print(f"+++ Adding new book: {url}")
                 existing_map[url] = new_book
 
         return list(existing_map.values())
     else:
+        print("No existing data file found. Creating new dataset.")
         return new_data
 
 
-def save_to_json(data, filename='reservedata.json'):
+def save_to_json(data, filename='bookwalker_output.json'):
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
