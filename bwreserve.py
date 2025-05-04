@@ -187,7 +187,7 @@ def merge_with_existing(new_data, filename='bookwalker_output.json'):
         return new_data
 
 
-def save_to_json(data, filename='bookwalker_output.json'):
+def save_to_json(data, filename='reservedata.json'):
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
